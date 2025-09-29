@@ -78,6 +78,7 @@
       ]
     },
     "qtsvg",
-    "qttools"
+    "qttools",
+    "zlib"
   ]
 }
